@@ -1,5 +1,7 @@
 # Claude Code 自动安装脚本
 
+[![GitHub stars](https://img.shields.io/github/stars/jun7799/claude-code-installer?style=social)](https://github.com/jun7799/claude-code-installer/stargazers)
+
 一键安装 Claude Code 的自动化脚本，支持 Windows 和 Mac/Linux。
 
 ---
